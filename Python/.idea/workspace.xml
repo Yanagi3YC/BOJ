@@ -1,37 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7778430-9568-46a1-82a8-a6d11b4aba55" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/1000.py" beforeDir="false" afterPath="$PROJECT_DIR$/01000.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1001.py" beforeDir="false" afterPath="$PROJECT_DIR$/01001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1008.py" beforeDir="false" afterPath="$PROJECT_DIR$/01008.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1330.py" beforeDir="false" afterPath="$PROJECT_DIR$/01330.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1463.py" beforeDir="false" afterPath="$PROJECT_DIR$/01463.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2438.py" beforeDir="false" afterPath="$PROJECT_DIR$/02438.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2439.py" beforeDir="false" afterPath="$PROJECT_DIR$/02439.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2440.py" beforeDir="false" afterPath="$PROJECT_DIR$/02440.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2441.py" beforeDir="false" afterPath="$PROJECT_DIR$/02441.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2442.py" beforeDir="false" afterPath="$PROJECT_DIR$/02442.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2443.py" beforeDir="false" afterPath="$PROJECT_DIR$/02443.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2444.py" beforeDir="false" afterPath="$PROJECT_DIR$/02444.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2445.py" beforeDir="false" afterPath="$PROJECT_DIR$/02445.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2446.py" beforeDir="false" afterPath="$PROJECT_DIR$/02446.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2522.py" beforeDir="false" afterPath="$PROJECT_DIR$/02522.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2558.py" beforeDir="false" afterPath="$PROJECT_DIR$/02558.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2562.py" beforeDir="false" afterPath="$PROJECT_DIR$/02562.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2588.py" beforeDir="false" afterPath="$PROJECT_DIR$/02588.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2739.py" beforeDir="false" afterPath="$PROJECT_DIR$/02739.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2741.py" beforeDir="false" afterPath="$PROJECT_DIR$/02741.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2742.py" beforeDir="false" afterPath="$PROJECT_DIR$/02742.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2753.py" beforeDir="false" afterPath="$PROJECT_DIR$/02753.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2869.py" beforeDir="false" afterPath="$PROJECT_DIR$/02869.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2884.py" beforeDir="false" afterPath="$PROJECT_DIR$/02884.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4344.py" beforeDir="false" afterPath="$PROJECT_DIR$/04344.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7287.py" beforeDir="false" afterPath="$PROJECT_DIR$/07287.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8393.py" beforeDir="false" afterPath="$PROJECT_DIR$/08393.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8958.py" beforeDir="false" afterPath="$PROJECT_DIR$/08958.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9498.py" beforeDir="false" afterPath="$PROJECT_DIR$/09498.py" afterDir="false" />
-    </list>
+    <list default="true" id="f7778430-9568-46a1-82a8-a6d11b4aba55" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +65,14 @@
       <option name="presentableId" value="Default" />
       <updated>1564853993582</updated>
     </task>
+    <task id="LOCAL-00001" summary="Rename">
+      <created>1564854269672</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564854269673</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -120,6 +98,10 @@
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="right" id="R Packages" order="4" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Rename" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rename" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/01000.py">
