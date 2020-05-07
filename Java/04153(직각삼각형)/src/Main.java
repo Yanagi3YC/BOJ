@@ -6,6 +6,7 @@ public class Main {
 		Scanner input = new Scanner(System.in);
 		while (true) {
 			int[] line = { input.nextInt(), input.nextInt(), input.nextInt() };
+			input.close();
 			if (line[0] == 0 && line[1] == 0 && line[2] == 0) {
 				break;
 			} else {
