@@ -9,7 +9,6 @@ public class Main {
 		int count = 0;
 		for (int i = 0; i < r; i++) {
 			Stack<Character> stk = new Stack<Character>();
-			boolean valid = true;
 			String word = input.nextLine();
 			for (int j = 0; j < word.length(); j++) {
 				if (stk.isEmpty()) {
@@ -22,7 +21,7 @@ public class Main {
 					}
 				}
 			}
-			if (valid = true && stk.isEmpty()) {
+			if (stk.isEmpty()) {
 				count++;
 			}
 		}
