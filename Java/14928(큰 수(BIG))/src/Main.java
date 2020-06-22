@@ -3,16 +3,17 @@ import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
-import java.math.BigInteger;
 
 public class Main {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
-		BigInteger a = new BigInteger(br.readLine());
-		BigInteger b = new BigInteger("20000303");
-		bw.write(a.mod(b).toString());
-		bw.flush();
+		String num = br.readLine();
+		long remain = 0;
+		for (int i = 0; i < num.length(); i++) {
+			remain = (remain * 10 + (num.charAt(i) - '0')) % 20000303;
+		}
+		bw.write(Long.toString(remain));
 		bw.close();
 	}
 }
